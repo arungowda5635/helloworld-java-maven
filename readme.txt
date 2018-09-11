@@ -1,5 +1,5 @@
 This is my fixed for DPLM-56666666666dsadsd
-For any questions - Please email me at DevOps@RajeshKumar.xyz
+For any questions - Please email me at arunug28@gmail.com
 # ========================NEXUS==============================
 
 <distributionManagement>
