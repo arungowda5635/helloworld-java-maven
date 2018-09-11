@@ -4,7 +4,7 @@
   <groupId>com.arun.mymavensample</groupId>
   <artifactId>myproject</artifactId>
   <packaging>jar</packaging>
-  <version>5.1.0</version>
+  <version>5.2.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
