@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.scmgalaxy.mavensample</groupId>
-  <artifactId>ramcoxdd</artifactId>
+  <groupId>com.arun.mavensample</groupId>
+  <artifactId>myproject</artifactId>
   <packaging>jar</packaging>
   <version>5.0.0</version>
   <name>my-maven</name>
@@ -42,12 +42,12 @@
     <repository>
         <id>deploymentRepo</id>
         <name>51708afbf5e2-releases</name>
-        <url>http://13.127.67.19:8081/artifactory/rajesh</url>
+        <url>http://18.214.202.72:8081/nexus/content/repositories/mvn/</url>
     </repository>
     <snapshotRepository>
         <id>deploymentRepo</id>
         <name>51708afbf5e2-snapshots</name>
-        <url>http://13.127.67.19:8081/artifactory/rajesh</url>
+        <url>http://18.214.202.72:8081/nexus/content/repositories/releases/</url>
     </snapshotRepository>
 </distributionManagement>
 
