@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>deploymentRepo</id>
+        <id>deployment</id>
         <name>51708afbf5e2-releases</name>
         <url>http://18.214.202.72:8081/nexus/content/repositories/mvn/</url>
     </repository>
     <snapshotRepository>
-        <id>deploymentRepo</id>
+        <id>deployment</id>
         <name>51708afbf5e2-snapshots</name>
         <url>http://18.214.202.72:8081/nexus/content/repositories/releases/</url>
     </snapshotRepository>
